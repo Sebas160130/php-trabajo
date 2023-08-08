@@ -1,0 +1,5 @@
+ESTE LOGIN Y REGISTER FUE CREADO DE UNA VEZ CON:
+- PHP
+- MYSQLi
+- SERVIDOR: http://localhost/phpmyadmin
+- Y SE UTILIZÓ xammp-control PARA EL SERVIDOR
